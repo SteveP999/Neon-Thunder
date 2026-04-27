@@ -1,20 +1,24 @@
 [
   {
     "id": "storm",
+    "num": "01",
     "title": "The Storm Never Sleeps",
     "artist": "Neon Thunder",
-    "album": "Neon Thunder",
+    "album": "Latest Single",
     "type": "Latest Single",
+    "isLatest": true,
     "cover": "https://raw.githubusercontent.com/SteveP999/Neon-Thunder/main/neon-thunder-the-storm-never-sleeps-album-cover.png",
     "audio": "https://www.dropbox.com/scl/fi/h2vn3tsx7l9hs7dra0ux9/The-Storm-Never-Sleeps-Mastered-MP3.mp3?rlkey=v2s0hqktttwpw4l4iigcqf92g&raw=1"
   },
   {
     "id": "neon_hearts",
+    "num": "02",
     "title": "Neon Hearts",
     "artist": "Neon Thunder",
-    "album": "Electric Nights",
+    "album": "Single",
     "type": "Single",
+    "isLatest": false,
     "cover": "https://raw.githubusercontent.com/SteveP999/Neon-Thunder/main/Neon%20Hearts%20-%20Record%20Cover.png",
-    "audio": ""
+    "audio": "https://www.dropbox.com/scl/fi/5hh4exlq1opk9doi6mmjb/Neon-Hearts-Mastered-MP3.mp3?rlkey=orlf1d2ir9lj1t3ydygrk0ais&raw=1"
   }
 ]
