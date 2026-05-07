@@ -1,6 +1,10 @@
 {
   "title": "The Storm Never Sleeps",
-  "album": "Neon Thunder",
+  "artist": "Neon Thunder",
+  "album": "The Storm Never Sleeps",
+  "type": "Latest Single",
+  "cover": "https://raw.githubusercontent.com/SteveP999/Neon-Thunder/main/neon-thunder-the-storm-never-sleeps-album-cover.png",
   "image": "https://raw.githubusercontent.com/SteveP999/Neon-Thunder/main/neon-thunder-the-storm-never-sleeps-album-cover.png",
-  "audio": "https://www.dropbox.com/scl/fi/h2vn3tsx7l9hs7dra0ux9/The-Storm-Never-Sleeps-Mastered-MP3.mp3?rlkey=v2s0hqktttwpw4l4iigcqf92g&raw=1"
+  "audio": "https://www.dropbox.com/scl/fi/h2vn3tsx7l9hs7dra0ux9/The-Storm-Never-Sleeps-Mastered-MP3.mp3?rlkey=v2s0hqktttwpw4l4iigcqf92g&raw=1",
+  "audioSrc": "https://www.dropbox.com/scl/fi/h2vn3tsx7l9hs7dra0ux9/The-Storm-Never-Sleeps-Mastered-MP3.mp3?rlkey=v2s0hqktttwpw4l4iigcqf92g&raw=1"
 }
